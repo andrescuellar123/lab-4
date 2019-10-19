@@ -64,7 +64,7 @@ public class Viewer {
     private int Height() {
     	int p =0;
     	if(raiz == null)
-    		p=0;
+    		p=0;	
     	else
     		p=raiz.Height();
         return p;

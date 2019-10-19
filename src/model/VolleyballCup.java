@@ -11,7 +11,7 @@ public class VolleyballCup {
 	 * @param view
 	 * @param first
 	 */
-	public VolleyballCup(Viewer view, Competitor first) {
+	public VolleyballCup() {
 		super();
 		this.view = view;
 		this.first = first;
