@@ -16,9 +16,6 @@ public class Human implements Comparable<Human>{
 	/**
 	 * @param name
 	 * @param id
-	 * @param left
-	 * @param right
-	 * @param next
 	 */
 	public Human(String name, String id) {
 		super();
